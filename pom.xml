@@ -20,6 +20,8 @@
     <properties>
         <springframework.version>5.0.3.RELEASE</springframework.version>
         <jackson.version>2.9.4</jackson.version>
+        <maven.compiler.source>1.6</maven.compiler.source>
+        <maven.compiler.target>1.6</maven.compiler.target>
     </properties>
 
     <!-- Dependencies -->
